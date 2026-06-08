@@ -9,8 +9,17 @@ This is an OCR handwritten character recognition model, mainly used for document
 本项目旨在解决企业日常业务中面临的手写单据录入效率低、人工成本高的核心痛点。
 
 通过自主研发的“手写字体识别与结构化数据录入系统”，本项目深度融合了图像处理 (CV)、深度学习 (Deep Learning) 与自然语言处理 (NLP) 技术
+
 系统能够实现对复杂手写单据的自动化高精度识别与关键信息提取，并将非结构化图像转化为可直接接入企业数据库的结构化数据。
-该产品识别成功率达到99%，已交付使用，可以根据需要定制企业app
+
+本项目涉及企业核心业务，模型已调试完成，技术交流可以参考目前开源核心算法：
+
+https://www.modelscope.cn/search?page=1&search=OCR&type=model
+
+https://huggingface.co/zai-org/GLM-OCR
+
+该产品识别成功率达到99%，单张单据平均处理耗时3s，已交付使用，可以根据需要定制企业app
+
 联系我们：yaxiguba766@gmail.com
 
 #✨ 核心成果：
@@ -24,7 +33,7 @@ This is an OCR handwritten character recognition model, mainly used for document
 #🚀 核心功能 | Key Features
 智能图像预处理：自动进行倾斜校正、去噪、二值化及表格线消除，提升复杂背景下单据的清晰度。
 
-高精度手写体 OCR：基于领先的深度学习视觉模型，精准识别中英文混合、连笔、潦草手写体。
+高精度手写体 OCR：基于深度学习视觉模型，精准识别中英文混合、连笔、潦草手写体。
 
 智能结构化提取：结合命名实体识别与版面分析 ，自动将识别出的长文本解析为结构化字段（如：姓名、金额、日期、物料编号等）。
 
