@@ -1,0 +1,2 @@
+此文件为示例模型，仅供参考与学习，与该项目模型不同，本项目基于qwen模型
+paddleOCR安装可以访问官方文档https://www.paddleocr.ai/latest/version3.x/installation.html
