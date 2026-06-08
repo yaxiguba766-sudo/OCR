@@ -18,7 +18,7 @@ This is an OCR handwritten character recognition model, mainly used for document
 
 💡 **本项目涉及企业核心业务，模型已调试完成并成功交付使用。** 我们支持根据企业需求**定制专属企业级 App / 系统**，欢迎洽谈合作。
 
-* **⚡ 性能指标**：识别成功率高达 **99%**，单张单据平均处理耗时仅 **3s**。
+* **⚡ 性能指标**：识别成功率高达 **99%**，单张单据平均处理并形成表格耗时仅 **3s**。
 * **📨 联系我们**：[yaxiguba766@gmail.com](mailto:yaxiguba766@gmail.com)
 * **🔬 开源核心算法参考**：
     * [ModelScope 算法库](https://www.modelscope.cn/search?page=1&search=OCR&type=model)
